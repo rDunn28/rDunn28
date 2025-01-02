@@ -1,8 +1,8 @@
 # whoami
 
-I am a Site Reliability Engineer with a strong focus on improving observability
-to enhance the reliability, and availability of applications on
-cloud-native platforms
+Guided by curiosity and a growth mindset, I am a Site Reliability Engineer with
+a strong focus on improving observability of applications on cloud-native
+platforms.
 
 ## Big Fan of
 
